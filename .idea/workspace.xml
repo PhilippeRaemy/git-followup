@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714119689887</updated>
-      <workItem from="1714119691074" duration="7537000" />
+      <workItem from="1714119691074" duration="10296000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of analyse.py">
       <option name="closed" value="true" />
@@ -76,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714124381227</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create MD">
+      <option name="closed" value="true" />
+      <created>1714133759893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714133759893</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +92,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit of analyse.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit of analyse.py" />
+    <MESSAGE value="Create MD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create MD" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -98,6 +107,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/git_followup$analyse.coverage" NAME="analyse Coverage Results" MODIFIED="1714133745353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/git_followup$analyse.coverage" NAME="analyse Coverage Results" MODIFIED="1714139899964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
